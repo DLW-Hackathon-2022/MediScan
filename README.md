@@ -3,9 +3,12 @@
 
 ## Problem Statement
 Context: 
-Due to the work structure, there is a high burnout rate faced by junior doctors in Singapore's Healthcare Industries. For junior doctors, they are normally in charge of six to 10 patients during a shift. However, they are on call, which means that these can go up to three wards, or even 100 patient! This results in a heavy workload, and subsequently long working hours experienced by the junior doctors. With long working hours, they will lack sufficient rest, add that together with demands from patients and their relatives, the fear of making mistakes due to their inexperience, and it will result in a recipe for disaster. Such factors will also contribute huge stress to junior doctors, which will not be good for them in a long term. Thus, as their main stress factor is their fear of making mistakes, our goal is to help them relieve some of this stress.
+Due to the work structure, there is a high burnout rate faced by junior doctors in Singapore's Healthcare Industries. According to Mr Koh Poh Koon, Senior Minisiter of State for Health, 20% of the junior doctors work more than 80 hours a week, which is above the Singapore Medical Council guidelines. The remaining 80% of the junior doctors work for 65 to 70 hours a week. To put that into context, based on Ministry of Manpower (MOM), the normal work arrangement is 44 hours a week. 
 
+For junior doctors, they are normally in charge of six to 10 patients during a shift. However, they are on call, which means that these can go up to three wards, or even 100 patients! This results in a heavy workload, and subsequently long working hours experienced by the junior doctors. With long working hours, they will lack sufficient rest, add that together with demands from patients and their relatives, the fear of making mistakes due to their inexperience, and it will result in a recipe for disaster. Such factors will also contribute huge stress to junior doctors, which will not be good for them in a long term.
 
+Our Problem Statement:
+Junior doctors in Singapore are inexperience and are working long hours with heavy workload. Thus, we want to develop a solution to help the junior doctors to increase the speed and efficiency of diagnosis process.
 
 
 ## About MediScan
