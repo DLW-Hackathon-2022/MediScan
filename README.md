@@ -1,5 +1,5 @@
 # MediScan by Team Anything.py
-<p>
+<p align ='center'>
   <img src = 'images/logo.jpg'>
 </p>
 
