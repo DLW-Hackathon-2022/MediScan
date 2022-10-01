@@ -16,12 +16,12 @@ Our solution is to develop an AI/ML model that can help to automate medical diag
 
 Healthcare workers will input a patient's xray image and our model will return a diagnosis of an illness. In our use case, the output will be either COVID positive or negative. 
 
-### Business Value
+### Business Value and Community Impact
 
 Our solution offers 3 key benefits - **Speed**, **Accuracy** and **Efficiency**. These are crucial factors in the healthcare industry especially when performing medical diagnosis on a patient. Timely and accurate diagnosis ensures that a patient receives the appropriate treatment as quickly as possible, minimizing the risk of illnesses escalating. Healthcare workers can leverage on MediScan to perform medical diagnosis by simply uploading the xray scan of the patient. Within seconds, the healthcare workers is able to get the diagnosis of the patient which is significantly faster than a manual diagnosis. Furthermore, manual diagnosis are prone to errors as it is subjective to a doctor's expertise. MediScan has a higher accuracy rate of 89% versus a junior doctor with a 57% accuracy rate.
 
-MediScan thus helps to streamline and automate the tedious and manual process of medical diagnosis, reduce the heavy workload of the doctors and most importantly, increase the efficiency and accuracy of the process. 
-### Community Impact
+MediScan thus helps to streamline and automate the tedious and manual process of medical diagnosis, reduce the heavy workload of the doctors and most importantly, increase the efficiency and accuracy of the process. This in turn allows the patients to receive timely diagnosis for the appropriate treatment, allowing them to have an ease of mind.
+
 ### Budget Cost
 ### Feasibility
 
