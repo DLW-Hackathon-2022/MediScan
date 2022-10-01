@@ -25,5 +25,4 @@ MediScan thus helps to streamline and automate the tedious and manual process of
 ### Budget Cost
 ### Feasibility
 
-## Tools Used
 
