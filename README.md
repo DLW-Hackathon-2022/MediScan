@@ -31,6 +31,8 @@ The table below outlines the operational cost of MediSave.
 <p>
     <img src = 'images/cost_table.jpg'>
  </p>
+ 
+
 ### Feasibility
 
 
