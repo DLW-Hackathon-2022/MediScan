@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-## High burnout rate faced by Singapore's healthcare industry.
+High burnout rate faced by Singapore's healthcare industry.
 
 
 ## About Our Hack
