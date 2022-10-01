@@ -1,6 +1,6 @@
 # MediScan by Team Anything.py
 <p>
-  <img src = 'images/logo.jpg/>
+  <img src = 'images/logo.jpg>
 </p>
 
 ## Overview
