@@ -26,7 +26,7 @@ Patients can also receive the diagnosis via email/application. This allows the p
 
 MediScan thus helps to streamline and automate the tedious and manual process of medical diagnosis, reduce the heavy workload of the doctors and most importantly, increase the efficiency and accuracy of the process. 
 
-### Budget Cost
+### Budgeted Cost
 The table below outlines the operational cost of MediSave.
 <p>
     <img src = 'images/cost_table.jpg'>
