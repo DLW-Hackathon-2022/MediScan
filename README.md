@@ -3,10 +3,7 @@
 
 ## Problem Statement
 Context: 
-Due to the work structure, high burnout rate faced by Singapore's healthcare industry. For junior doctors, the heavy workload, long working hours as they might be in charge of six to 10 patients during a normal shift, this can go up to three wards, or 100 patients, when on call.
-Due lack of sufficient rest, demands from patients and relatives, and fear of making mistakes,
-such factors will contribute huge stress to the junior doctors, hence it will not be good in a long term.
-Main stressing factor is due to fear of making mistakes, as it is health related, thus we want to help them in this area.
+Due to the work structure, there is a high burnout rate faced by junior doctors in Singapore's Healthcare Industries. For junior doctors, they are normally in charge of six to 10 patients during a shift. However, they are on call, which means that these can go up to three wards, or even 100 patient! This results in a heavy workload, and subsequently long working hours experienced by the junior doctors. With long working hours, they will lack sufficient rest, add that together with demands from patients and their relatives, the fear of making mistakes due to their inexperience, and it will result in a recipe for disaster. Such factors will also contribute huge stress to junior doctors, which will not be good for them in a long term. Thus, as their main stress factor is their fear of making mistakes, our goal is to help them relieve some of this stress.
 
 
 
