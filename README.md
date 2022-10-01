@@ -1,5 +1,8 @@
 # MediScan by Team Anything.py
-<img src = 'images/logo.jpg'>
+<p>
+  <img src = 'images/logo.jpg/>
+</p>
+
 ## Overview
 ### Context
 Due to the work structure, there is a high burnout rate faced by junior doctors in Singapore's Healthcare Industry. According to Mr Koh Poh Koon, Senior Minister of State for Health, 20% of the junior doctors work more than 80 hours a week, which is above the Singapore Medical Council guidelines. The remaining 80% of the junior doctors work for 65 to 70 hours a week. To put that into context, based on Ministry of Manpower (MOM), the normal work arrangement is 44 hours a week. 
