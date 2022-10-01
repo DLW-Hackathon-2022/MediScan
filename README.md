@@ -37,4 +37,5 @@ The table below outlines the operational cost of MediSave.
 
 ### Reference
 https://mothership.sg/2022/03/junior-doctors-singapore-long-hours/
+
 https://tnp.straitstimes.com/news/singapore/my-brain-kind-stops-functioning-long-working-hours-leave-young-doctors-exhausted
