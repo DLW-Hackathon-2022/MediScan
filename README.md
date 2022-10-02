@@ -14,13 +14,13 @@ Junior doctors in Singapore are inexperienced and work long hours with heavy wor
 
 
 ## About MediScan
-Our solution is to develop an AI/ML model that can help to automate medical diagnosis process of illnesses such as COVID-19. Our model utilizes the Data-Efficient Image Transformer (DeiT) technique, a type of Vision Transformer for image classification tasks, it will be able to analyze and identify patterns in xray images that can potentially aid in the detecting illnesses. 
+Our solution is to develop an AI/ML model that can help to automate medical diagnosis process of illnesses such as COVID-19. Our model utilizes the Data-Efficient Image Transformer (DeiT) technique, a type of Vision Transformer for image classification tasks, it will be able to analyze and identify patterns in X-Ray images that can potentially aid in the detecting illnesses. 
 
-Healthcare workers will input a patient's xray image and our model will return a diagnosis of an illness. In our use case, the output will be either COVID positive or negative. 
+Healthcare workers will input a patient's chest X-Ray image and our model will return a diagnosis of an illness. In our use case, the output will be either COVID positive or negative. 
 
 ### Business Value and Community Impact
 
-Our solution offers 3 key benefits - **Speed**, **Accuracy** and **Efficiency**. These are crucial factors in the healthcare industry especially when performing medical diagnosis on a patient. Timely and accurate diagnosis ensures that a patient receives the appropriate treatment as quickly as possible, minimizing the risk of illnesses escalating. Healthcare workers can leverage on MediScan to perform medical diagnosis by simply uploading the xray scan of the patient. Within seconds, the healthcare workers is able to get the diagnosis of the patient which is significantly faster than a manual diagnosis. Furthermore, manual diagnosis are prone to errors as it is subjective to a doctor's expertise. MediScan has a higher accuracy rate of 89% versus a junior doctor with a 57% accuracy rate.
+Our solution offers 3 key benefits - **Speed**, **Accuracy** and **Efficiency**. These are crucial factors in the healthcare industry especially when performing medical diagnosis on a patient. Timely and accurate diagnosis ensures that a patient receives the appropriate treatment as quickly as possible, minimizing the risk of illnesses escalating. Healthcare workers can leverage on MediScan to perform medical diagnosis by simply uploading the X-Ray scan of the patient. Within seconds, the healthcare workers is able to get the diagnosis of the patient which is significantly faster than a manual diagnosis. Furthermore, manual diagnosis are prone to errors as it is subjective to a doctor's expertise. MediScan has a higher accuracy rate of 89% versus a junior doctor with a 57% accuracy rate.
 
 Patients can also receive the diagnosis via email/application. This allows the patients to receive timely diagnosis for the appropriate treatment, allowing them to have an ease of mind. Additionally, if the result is negative, patients would not need to seek doctor's consultation which reduces the workload of doctors.
 
@@ -37,11 +37,6 @@ The table below outlines the operational cost of MediSave.
 
 ##### Cost-Benefit 
 
-###### Cost (One-Time Cost) 
-- XXX
-
-###### Cost (Recurring Cost) 
-- XXX
 
 ###### Benefit 
 - Reduce Stress Level/Workload of Doctors 
