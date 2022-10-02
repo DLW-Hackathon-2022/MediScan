@@ -65,6 +65,9 @@ The table below outlines the operational cost of MediSave.
 - Higher patient turnover rate
 
 ## Demo
+### Login Credentials
+- Username: user1
+- Password: user1
 ![MediScan Demo](images/demo_gif.gif)
 
 ## Reference
