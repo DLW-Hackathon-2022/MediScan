@@ -35,15 +35,15 @@ The table below outlines the operational cost of MediSave.
 
 ### Feasibility
 
-Cost-Benefit 
+##### Cost-Benefit 
 
-Cost (One-Time Cost) 
-- 
+###### Cost (One-Time Cost) 
+- XXX
 
-Cost (Recurring Cost) 
-- 
+###### Cost (Recurring Cost) 
+- XXX
 
-Benefit 
+###### Benefit 
 - Reduce Stress Level/Workload of Doctors 
 - Higher accuracy leading to better decisions 
 - Higher patient turnaround 
