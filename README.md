@@ -19,10 +19,12 @@ Our solution is to develop an AI/ML model that can help to automate medical diag
 Healthcare workers will input a patient's chest X-Ray image and our model will return a diagnosis of an illness. In our use case, the output will be either COVID positive or negative. 
 
 ### Sample COVID19 Dataset used
+
 #### sample Normal X-Ray image
 <p>
     <img src = 'images/Normal-1.png'>
  </p>
+
 #### sample Covid X-Ray image
 <p>
     <img src = 'images/COVID-1.png'>
@@ -61,11 +63,19 @@ The table below outlines the operational cost of MediSave.
 ###### Benefit 
 - Reduce Stress Level/Workload of Doctors 
 - Higher accuracy leading to better decisions 
-- Higher patient turnaround 
-- 
+- Higher patient turnover rate
 
 
 ### Reference
+Ministry of Health. (2022). Covid 19 Statistics. Retrieved from:
+https://www.moh.gov.sg/covid-19/statistics 
+
+Data-efficient image Transformers: A promising new technique for image classification. (2022). Retrieved 11 April 2022, from https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/
+
+Sarkar, A. (2021, May 20). Are transformers better than CNN's at image recognition? Medium. Retrieved from https://towardsdatascience.com/are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8
+
+Borakati, A. (2020). Diagnostic accuracy of X-ray versus CT in COVID-19: a propensity-matched database study. Retrieved from https://bmjopen.bmj.com/content/10/11/e042946
+
 https://mothership.sg/2022/03/junior-doctors-singapore-long-hours/
 
 https://tnp.straitstimes.com/news/singapore/my-brain-kind-stops-functioning-long-working-hours-leave-young-doctors-exhausted
