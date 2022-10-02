@@ -64,6 +64,8 @@ The table below outlines the operational cost of MediSave.
 - Higher accuracy leading to better decisions 
 - Higher patient turnover rate
 
+## Demo
+![MediScan Demo](images/demo.gif)
 
 ## Reference
 Ministry of Health. (2022). Covid 19 Statistics. Retrieved from:
