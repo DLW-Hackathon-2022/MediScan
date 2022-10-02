@@ -16,7 +16,7 @@ def login():
             return  render_template("Home.html")
         else:
             return render_template("login_fail.html")
-    return render_template("login.html")
+    return render_template("index.html")
 @app.route('/home', methods=['GET', 'POST'])
 
 def home():
