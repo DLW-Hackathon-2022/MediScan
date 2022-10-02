@@ -68,7 +68,8 @@ The table below outlines the operational cost of MediSave.
 ### Login Credentials
 - Username: user1
 - Password: user1
-<br>
+
+
 ![MediScan Demo](images/demo_gif.gif)
 
 ## Reference
